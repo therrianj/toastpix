@@ -56,12 +56,13 @@ a {
 }
 
 .aboutimg {
-  max-width: 100%;
+  max-width: 140%;
   border: 0;
   outline: 0;
 }
 
 #image {
+  
   display: flex;
   justify-content: space-around;
   
